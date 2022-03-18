@@ -1,5 +1,13 @@
 # @backstage/plugin-search
 
+## 0.7.5-next.0
+
+### Patch Changes
+
+- 38e01f2f70: Switch to `SearchDocument` type in `DefaultResultListItem` props
+- Updated dependencies
+  - @backstage/plugin-search-common@0.3.3-next.0
+
 ## 0.7.4
 
 ### Patch Changes

@@ -1,5 +1,20 @@
 # example-app
 
+## 0.2.70-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-common@0.3.3-next.0
+  - @backstage/plugin-search@0.7.5-next.0
+  - @backstage/plugin-catalog@1.0.1-next.0
+  - @backstage/plugin-home@0.4.20-next.0
+  - @backstage/plugin-techdocs@1.0.1-next.0
+  - @backstage/plugin-catalog-common@1.0.1-next.0
+  - @backstage/plugin-api-docs@0.8.4-next.0
+  - @backstage/plugin-scaffolder@1.0.1-next.0
+  - @backstage/plugin-jenkins@0.7.3-next.0
+
 ## 0.2.69
 
 ### Patch Changes

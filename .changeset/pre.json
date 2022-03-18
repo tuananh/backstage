@@ -139,5 +139,12 @@
     "@backstage/plugin-user-settings": "0.4.2",
     "@backstage/plugin-xcmetrics": "0.2.23"
   },
-  "changesets": []
+  "changesets": [
+    "empty-pens-invent",
+    "happy-mugs-camp",
+    "large-coins-arrive",
+    "light-drinks-rule",
+    "ninety-fishes-vanish",
+    "tidy-emus-stare"
+  ]
 }

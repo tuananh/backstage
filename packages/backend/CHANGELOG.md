@@ -1,5 +1,21 @@
 # example-backend
 
+## 0.2.70-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-backend@0.5.0-next.0
+  - @backstage/plugin-catalog-backend@1.0.1-next.0
+  - @backstage/plugin-search-backend-node@0.5.3-next.0
+  - @backstage/plugin-search-backend-module-elasticsearch@0.1.3-next.0
+  - @backstage/plugin-search-backend-module-pg@0.3.2-next.0
+  - example-app@0.2.70-next.0
+  - @backstage/plugin-techdocs-backend@1.0.1-next.0
+  - @backstage/plugin-scaffolder-backend@1.0.1-next.0
+  - @backstage/plugin-scaffolder-backend-module-rails@0.3.6-next.0
+  - @backstage/plugin-jenkins-backend@0.1.20-next.0
+
 ## 0.2.69
 
 ### Patch Changes
